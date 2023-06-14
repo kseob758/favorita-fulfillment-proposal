@@ -15,4 +15,7 @@
 <br>
 
 ### 결론
+Dark Store와 Semi-Dark Store 전환에 가장 적합한 매장 각각 선정
+<br>
+
 ### 기대 전망
