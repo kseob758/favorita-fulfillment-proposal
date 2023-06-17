@@ -17,10 +17,16 @@
   - Quito는 에콰도르의 수도
   - 인구수 최대 도시인 Guayaquil보다 더 많은 매장 밀집 → 매장 개편 시 비교적 낮은 위험
   - 도심지역이므로 온라인 판매 채널 확대 시 큰 효과 기대
-- 매장별/제품군별 Sales 분석
-- 매장별 Sales 증가율 분석
-- 매장별 평균 Transaction 분석
-- 시계열 모델을 활용한 재고 변동 비율 확인
+
+- 3단계의 필터링 과정을 통해 전환할 매장 선정
+<p align="left">
+  <img src="https://github.com/kseob758/favorita-fulfillment-proposal/assets/125840318/907bac58-7f77-4a9e-b6eb-a135501803b6" width="400">
+</p>
+    
+- 추가 : 시계열 모델 Neural prophet을 활용한 재고 변동 비율 확인, 재고 관리에 도움
+<p align="left">
+  <img src="https://github.com/kseob758/favorita-fulfillment-proposal/assets/125840318/e67b1a63-e6bc-4162-8072-9a1803090bde" width="600">
+</p>
 <br>
 
 ### 결론
