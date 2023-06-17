@@ -15,7 +15,7 @@
   
     ![quitostore](https://github.com/kseob758/favorita-fulfillment-proposal/assets/125840318/1a15412a-faa6-46e7-9bbc-163fc583c4d6)
   - Quito는 에콰도르의 수도
-  - 인구수 최대 도시인 Guayaquil보다 더 많은 매장 밀집 → 매장 개편 시 비교적 낮은 위험
+  - 인구수 최대 도시인 Guayaquil보다 더 많은 매장 밀집 → 일부 매장 개편 시 비교적 낮은 리스크
   - 도심지역이므로 온라인 판매 채널 확대 시 큰 효과 기대
 
 - 3단계의 필터링 과정을 통해 전환할 매장 선정
@@ -31,6 +31,8 @@
 
 ### 결론
 Dark Store와 Semi-Dark Store 전환에 가장 적합한 매장 각각 선정
+- Sales 규모, Sales 증가율, Transaction이 모두 최하위인 **10번 매장을 Dark Store로** 전환
+- Sales 규모와 Transaction이 최상위지만 Sales 증가율은 규모에 비해 저조한 **44번 매장을 Semi-Dark Store로** 전환
 <br>
 
 ### 기대 전망
