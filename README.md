@@ -7,7 +7,8 @@
 <br>
 
 ### 데이터 설명
-- 전체 설명, 컬럼 설명, 각 컬럼 값
+- 에콰도르 FAVORITA의 매장 1~54번에 대한 거래 데이터
+- date, store_nbr, family(제품군), sales, onpromotion(프로모션 중인 제품 개수), dcoilwtico(유가), city, state, type, cluster 등의 데이터 존재
 <br>
 
 ### 데이터 분석 과정
