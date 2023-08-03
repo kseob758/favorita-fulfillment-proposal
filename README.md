@@ -1,6 +1,6 @@
 # favorita-fulfillment-proposal
 <p>
-  <img src="https://github.com/kseob758/favorita-fulfillment-proposal/assets/125840318/8c486125-2d8b-41f2-9ceb-f170799172b4" width="800" height="350">
+  <img src="https://github.com/kseob758/favorita-fulfillment-proposal/assets/125840318/8c486125-2d8b-41f2-9ceb-f170799172b4" width="800" height="300">
 </p>
 
 ### 타깃 및 상황
@@ -17,20 +17,21 @@
 
 ### 데이터 분석 과정
 - 왜 Quito인가? (시범 사업 시행 지역을 Quito로 결정한 이유)
-  
-    ![quitostore](https://github.com/kseob758/favorita-fulfillment-proposal/assets/125840318/1a15412a-faa6-46e7-9bbc-163fc583c4d6)
+  <p align="left">
+  <img src="https://github.com/kseob758/favorita-fulfillment-proposal/assets/125840318/ce63eb7e-c057-489c-937e-fbfebf7866bb" width="600">
+  </p>
   - Quito는 에콰도르의 수도
   - 인구수 최대 도시인 Guayaquil보다 더 많은 매장 밀집 → 일부 매장 개편 시 비교적 낮은 리스크
   - 도심지역이므로 온라인 판매 채널 확대 시 큰 효과 기대
 
 - 3단계의 필터링 과정을 통해 전환할 매장 선정
 <p align="left">
-  <img src="https://github.com/kseob758/favorita-fulfillment-proposal/assets/125840318/907bac58-7f77-4a9e-b6eb-a135501803b6" width="400">
+  <img src="https://github.com/kseob758/favorita-fulfillment-proposal/assets/125840318/d0f9ab23-0552-4138-b721-c882e6f31775" width="400">
 </p>
     
 - 추가 : 시계열 모델 Neural prophet을 활용한 재고 변동 비율 확인, 재고 관리에 도움
 <p align="left">
-  <img src="https://github.com/kseob758/favorita-fulfillment-proposal/assets/125840318/e67b1a63-e6bc-4162-8072-9a1803090bde" width="600">
+  <img src="https://github.com/kseob758/favorita-fulfillment-proposal/assets/125840318/26bfdec1-e37c-4bcb-82f9-5d2aa7d22efd" width="600">
 </p>
 <br>
 
