@@ -1,4 +1,8 @@
 # favorita-fulfillment-proposal
+<p>
+  <img src="https://github.com/kseob758/favorita-fulfillment-proposal/assets/125840318/8c486125-2d8b-41f2-9ceb-f170799172b4" width="800" height="350">
+</p>
+
 ### 타깃 및 상황
 - 에콰도르의 유통 전문 대기업 FAVORITA 그룹
 - 고객의 구매 패턴이 온라인으로 전환 중인 시장 환경에 따라 직면할 위기에 대비하며 "에콰도르 최대의 유통업계" 타이틀 유지를 목표로 한다.
