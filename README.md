@@ -1,6 +1,6 @@
 # favorita-fulfillment-proposal
 <p>
-  <img src="https://github.com/kseob758/favorita-fulfillment-proposal/assets/125840318/8c486125-2d8b-41f2-9ceb-f170799172b4" width="800" height="300">
+  <img src="https://github.com/kseob758/favorita-fulfillment-proposal/assets/125840318/8c486125-2d8b-41f2-9ceb-f170799172b4" width="700" height="350">
 </p>
 
 ### 타깃 및 상황
